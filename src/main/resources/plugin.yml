@@ -1,0 +1,13 @@
+main: com.sonyakun.earth.util.Plugin
+name: sonyaUtil
+version: 2023.09.13
+commands:
+  fly:
+    description: Enable/Disable Fly
+    usage: /<command>
+  sonyautil:
+    description: show help
+    usage: /<command>
+  nick:
+    description: A command
+    usage: /<command>
